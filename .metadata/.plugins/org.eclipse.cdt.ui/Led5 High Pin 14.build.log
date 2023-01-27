@@ -1,0 +1,10 @@
+10:49:42 **** Incremental Build of configuration Debug for project Led5 High Pin 14 ****
+make -j4 all 
+arm-none-eabi-size   Led5\ High\ Pin\ 14.elf 
+   text	   data	    bss	    dec	    hex	filename
+    748	      8	   1568	   2324	    914	Led5 High Pin 14.elf
+Finished building: default.size.stdout
+ 
+
+10:49:42 Build Finished. 0 errors, 0 warnings. (took 621ms)
+
